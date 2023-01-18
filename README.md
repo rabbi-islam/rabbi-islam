@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-islam&show_icons=true&locale=en&layout=compact" alt="rabbi-islam" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rabbi-islam&show_icons=true&locale=en" alt="rabbi-islam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbi-islam&show_icons=true&locale=en" alt="rabbi-islam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-islam&" alt="rabbi-islam" /></p>
